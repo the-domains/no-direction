@@ -1,0 +1,28 @@
+name: No Direction
+favicon: null
+layout_spectrum: 0.9242434427142143
+typography_spectrum: 0.17555957683362067
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4634748916141689
+  lightness: 0.42067937715910375
+  saturation: 0.7996015292592347
+  rhythmicContrast: 0.7426223654765636
+purpose: []
