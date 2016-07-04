@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-07-04T03:04:54.144Z'
+datePublished: '2016-07-04T03:15:11.193Z'
 sourcePath: _posts/2016-07-03-how-we-got-here.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-04T03:04:53.470Z'
+dateModified: '2016-07-04T03:15:10.823Z'
 title: ''
 publisher: null
 description: The point of no return...
 inLanguage: null
 inNav: false
-starred: true
+starred: false
 url: how-we-got-here/index.html
 _type: Article
 
