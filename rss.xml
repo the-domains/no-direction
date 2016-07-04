@@ -4,7 +4,7 @@
         <description><![CDATA[No Direction]]></description>
         <link>http://nodirection.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 03:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 03:14:19 GMT</lastBuildDate>
         <atom:link href="http://nodirection.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How we got here.]]></title>
@@ -12,6 +12,13 @@
             <link>http://nodirection.ca/how-we-got-here/index.html</link>
             <guid isPermaLink="false">e5bff142-f1b0-41c7-9042-dd61992851c8</guid>
             <pubDate>Mon, 04 Jul 2016 03:04:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[testing]]></title>
+            <description><![CDATA[<article><h1>testing</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/509fa349-1153-4852-ad25-edcbfab8e480.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/509fa349-1153-4852-ad25-edcbfab8e480.jpg</link>
+            <guid isPermaLink="false">11405efe-defe-4b50-8ca7-bef67046de2f</guid>
+            <pubDate>Mon, 04 Jul 2016 03:14:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
