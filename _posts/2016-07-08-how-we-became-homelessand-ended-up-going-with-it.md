@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: How we became homeless...and ended up going with it.
-datePublished: '2016-07-08T23:18:03.226Z'
-dateModified: '2016-07-08T23:17:26.234Z'
+datePublished: '2016-07-08T23:25:38.680Z'
+dateModified: '2016-07-08T23:25:10.919Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-08-how-we-became-homelessand-ended-up-going-with-it.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-08-how-we-became-homelessand-ended-up-going-with-it.md
 url: how-we-became-homelessand-ended-up-going-with-it/index.html
 _type: Article
 
@@ -45,10 +45,16 @@ We flew through the night yet again...and yet again did not sleep. This was now 
 
 We arrived in Ljubljana at 8:30 pm on Thursday, July 7th. We quickly met the owners of our temporary rental and once settled in, we fell asleep; thankful for a bed for the first time in almost 3 days. Waking up with a hunger the likes of which I hope to never have again, we walked until we discovered a decent looking place with a nice patio; lots of tables and chairs setup outside to enjoy the hot weather and lots of patrons. We walked in and after the first person trying to address us realized we don't speak Slovene she handed us off to another cook. I'll never forget his first words and the look on Raeleen's face as he said "Welcome to the Ljubljana Humanitarian kitchen". As it dawned on us both that we were about to eat lunch in a soup kitchen we both had very different reactions. Raeleen looked like she wanted to melt into the ground and disappear while I resolved to myself that this is what my life had now become and that 'ooo, those potatoes look tasty'. Realizing what we had done, we sheepishly took our food, paid our small bill and officially became a drain on the state of Slovenia. I'm sorry if any native Slovenes read this, I swear we'll try our best to make it up to you. 
 
+**Photos**
+
+Raeleen will be uploading more photos tomorrow so make sure to check back for more additions to the photos category and to her flickr account [here][0]. 
+
 **Challenge \#1 - The first of many.**
 
 Our friend Darlene had issued her first challenge of what I'm assuming will be many and increasingly harder challenges. I feel like this time she took it easy on us and we were able to complete this within hours of seeing it. The challenge was to: 
 
 1\. Meet another person during our travelling period. Done!
 
-2\. Get their Name, Job, Where they live, and who they believe will win the American election? Her name is Caroline, shes from New York, and she believes that it will be a Hillary win this year! Although I didn't realize the picture was a requirement I see now that it was. I will make this up to you in some form and didn't try to skimp on this on purpose.
+2\. Get their Name, Job, Where they live, and who they believe will win the American election? Her name is Caroline, shes from New York, and she believes that it will be a Hillary win this year! Although I didn't realize the picture was a requirement I see now that it was. I will make this up to you in some form and didn't try to skimp on this on purpose. 
+
+[0]: www.flickr.com/rae-j09
