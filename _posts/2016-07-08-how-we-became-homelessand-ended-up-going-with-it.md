@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: How we became homeless...and ended up going with it.
-datePublished: '2016-07-08T23:39:04.614Z'
-dateModified: '2016-07-08T23:28:17.916Z'
+datePublished: '2016-07-09T09:04:55.880Z'
+dateModified: '2016-07-09T09:04:37.279Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-08-how-we-became-homelessand-ended-up-going-with-it.md
@@ -33,7 +33,7 @@ Starting with Oxararfoss, in Thingvellir National Park we took a small hike to t
 
 Finally on our list was Secret Lagoon, a naturally fed pool with small, boiling geysers surrounded by farmland on all sides. I had always wanted to see Blue Lagoon in Iceland, as they have done an amazing job marketing their site, however, after doing some research I discovered a couple things: Blue Lagoon is man made and is very expensive. Secret Lagoon is all natural, old, and much less known (Does this make us Hipsters?) which meant not very busy. It just so happened to be only 15 minutes off of the main track, as well. It was everything I hoped it would be and refreshed us after not having showered for 2 days. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc26aea8-6024-4d2c-896e-aa8fe49192b0.jpg)
 
-Our last attraction of the day was actually a bit of an accident. We had hoped to go for a late supper in Reykjavik on our way back to the airport, however, we realized we would not have enough time. However, our route had already taken us into the city and right beside the famed Hallgrimskirkja Cathedral. After 30 minutes of checking out this spectacular area we quickly made our way back to the airport and said our goodbyes to Iceland. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a990c591-9450-4e81-8613-c2c0ebcf2146.jpg)
+Our last attraction of the day was actually a bit of an accident. We had hoped to go for a late supper in Reykjavik on our way back to the airport, however, we realized we would not have enough time. Our route had already taken us into the city and right beside the famed Hallgrimskirkja Cathedral. After 30 minutes of checking out this spectacular area we quickly made our way back to the airport and said our goodbyes to Iceland. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a990c591-9450-4e81-8613-c2c0ebcf2146.jpg)
 
 ****
 
