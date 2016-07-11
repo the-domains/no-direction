@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Here, There, and Everywhere!'
-datePublished: '2016-07-11T22:54:45.203Z'
-dateModified: '2016-07-11T22:53:55.468Z'
+datePublished: '2016-07-11T23:00:48.292Z'
+dateModified: '2016-07-11T22:54:55.617Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-11-here-there-and-everywhere.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-11-here-there-and-everywhere.md
 url: here-there-and-everywhere/index.html
 _type: Article
 
