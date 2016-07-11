@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Here, There, and Everywhere!'
-datePublished: '2016-07-11T23:00:48.292Z'
-dateModified: '2016-07-11T22:54:55.617Z'
+datePublished: '2016-07-11T23:09:57.697Z'
+dateModified: '2016-07-11T23:09:38.977Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-11-here-there-and-everywhere.md
