@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-11T23:08:16.697Z'
-dateModified: '2016-07-11T23:04:29.440Z'
+datePublished: '2016-07-11T23:17:54.108Z'
+dateModified: '2016-07-11T23:13:18.883Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-08-how-we-became-homelessand-ended-up-going-with-it.md
