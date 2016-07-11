@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ' '
-datePublished: '2016-07-11T22:58:50.592Z'
-dateModified: '2016-07-11T22:58:48.617Z'
+description: ''
+datePublished: '2016-07-11T23:08:16.697Z'
+dateModified: '2016-07-11T23:04:29.440Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-08-how-we-became-homelessand-ended-up-going-with-it.md
