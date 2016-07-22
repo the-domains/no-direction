@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-22T22:48:15.307Z'
+datePublished: '2016-07-22T22:53:27.293Z'
 sourcePath: _posts/2016-07-22-a-tale-of-twoperpetually-sweaty-travellers.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-07-22T22:48:04.027Z'
+dateModified: '2016-07-22T22:53:26.756Z'
 title: ''
 publisher: {}
 description: A Tale of Two...Perpetually Sweaty Travellers
@@ -28,7 +28,7 @@ So it's been a few days since we've last spoken...or at least since I've last ta
 ![Matt in his new Fortress of Solitude.  Yes, he's hoping it's as cold as the one in Superman. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98fe5c9f-31a5-4078-8394-640514bdc3c5.jpg)
 
 **Ljubo doma, kdor ga ima (Home sweet Home)**
-![The view from our windows!](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dccf6db784b6cd28ff98daff7ce8df94/croprotate.jpg?cropheight=3875&cropwidth=6889&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4a03d8a5-69e6-4d12-bf3d-fa268eb26dd9.jpg&x=0&y=0)
+![The view from our windows!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0058faa3-7c9e-43c2-91a5-dea70f4c2727.jpg)
 
 (I'm sorry Kel-cie, I know that you wanted some pronunciations added with the Slovene places and words but I can't say that line up there either so we'll both have to just assume that it's home sweet home in English and try to butcher the pronunciations in private. I can say that the j is a y sound, so that may help for the first part.) Now back to our regularly scheduled programming.We have managed to secure an apartment in an area of the city called Šiška (pronounced: Shishka). The area is in the northwestern part of the city and has some pretty amazing views of the Kamnik Alps on clear days. With this large hurdle out of the way, we realized that we were missing many day to day things which meant spending more money. This also means that our monthly budget has been thrown way out of whack as we try to make up for all the things that we are missing. I know that a few people had mentioned they wanted to see how much we spent per month so I think for August I am going to do a very detailed breakdown of our expenditures so you can see what the costs of living are like for us here.
 
@@ -46,7 +46,7 @@ Climbing walls popped up here and there and Slovene's were around every corner a
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6960ad5208902a186010fbf3459ea730/croprotate.jpg?cropheight=5184&cropwidth=3457&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9f320357-c181-4431-acd8-ed7a1796b461.jpg&x=0&y=0)
 
 After getting lost, cliff jumping into deeper pools, and napping beside the stream it was finally time to go back to the city. We did not want to do that walk again and so for the second time in our lives we again hitchhiked. This time it did not take nearly so long as we had barely left the park by the time we were picked up by two guys; an off-duty police officer and his friend. They were incredibly nice and ended up driving us all the way back to the city all the while talking our ears off about things we needed to see while in Slovenia and Europe, differences between western and eastern cultures, the Yugoslav war, the Middle East, and giving us advice on purchasing a vehicle. They ended up dropping us off three blocks from our apartment but not before inviting us out for a supper and some drinks which we accepted. It was nice to get to know these two and we made sure to grab their contact information. My first and second experiences with hitchhiking have taught me a few things; that people are for the most part good and kind, and that a smile and a laugh go a long way no matter the language. We actually ended up also meeting a British couple that had just started a trip for the next 18 months, travelling wherever their hearts took them. We sat with them and talked for an hour or so and really enjoyed their company. They told us about their experiences so far hiking in Spain, their time in Italy and plans to come. It's these kinds of experiences that reassure me that we made the right decision to come here. We traded contact information, and a trip to Manchester may be in the cards for us somewhere down the road.
-![Our little slice of paradise for a day.  ](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a0397c7a18b4673afae7162c71548778/croprotate.jpg?cropheight=3457&cropwidth=5184&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F34259f7e-2cb2-4421-b701-e1dec5ba86fe.jpg&x=0&y=0)
+![Our little slice of paradise for a day.  ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a2ab37deb147c3608a93969b93f8670d8c1810f.jpg)
 
 **Work Permits**
 
