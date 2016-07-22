@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: A Tale of Two...Perpetually Sweaty Travellers
-datePublished: '2016-07-22T22:15:30.894Z'
-dateModified: '2016-07-22T22:09:05.961Z'
+datePublished: '2016-07-22T22:23:03.006Z'
+dateModified: '2016-07-22T22:23:02.294Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 via: {}
 sourcePath: _posts/2016-07-22-a-tale-of-twoperpetually-sweaty-travellers.md
 authors: []
@@ -22,20 +24,20 @@ url: a-tale-of-twoperpetually-sweaty-travellers/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6918ba76-e071-45be-94b9-ef1c5a21b21c.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b3d7985202592f4f9e96cd5353e3743d/croprotate.jpg?cropheight=3457&cropwidth=5184&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6918ba76-e071-45be-94b9-ef1c5a21b21c.jpg&x=0&y=0)
 
 **A Tale of Two...Perpetually Sweaty Travellers**
 
-So it's been a few days since we've last spoken...or at least since I've last talked at you and you've had to sit there and like it! Please like!?!? And well, things have been going pretty well so far for us. Our plans are starting to fall into place and for the first time since we've been here we've actually had the chance to do something OUTSIDE of the city. Now don't get me wrong, Ljubljana (pronounced: Lee-yoob-lee-yana) is a beautiful city but it is also a smaller city which means that you start to see the same things over and over again very quickly. I also just have to mention that it appears that the earth must have a massive bulge right under this part of the world as it feels like we are MUCH closer to the sun than we should be. I've never been this hot and sweaty for such an extended period of time. Darkness doesn't seem to save you, as then its merely dark and hot with a mix of high humidity thrown in to really make it pleasant while you try and peel your clothing away from your drenched skin. I'm currently upping my shower routine to 2-3 a day in an effort to keep the smell down. Not sure on how that war is going just yet as I still usually have to change partway through the day. ![Our living room in our new Fortress of Solitude.  Yes I named it after Superman's icecave because that's how cold I have to keep it to be comfortable.  ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff4f1b6c-98ed-4021-b56d-97cb066fd38d.jpg)
+So it's been a few days since we've last spoken...or at least since I've last talked at you and you've had to sit there and like it! Please like!?!? And well, things have been going pretty well so far for us. Our plans are starting to fall into place and for the first time since we've been here we've actually had the chance to do something OUTSIDE of the city. Now don't get me wrong, Ljubljana (pronounced: Lee-yoob-lee-yana) is a beautiful city but it is also a smaller city which means that you start to see the same things over and over again very quickly. I also just have to mention that it appears that the earth must have a massive bulge right under this part of the world as it feels like we are MUCH closer to the sun than we should be. I've never been this hot and sweaty for such an extended period of time. Darkness doesn't seem to save you, as then its merely dark and hot with a mix of high humidity thrown in to really make it pleasant while you try and peel your clothing away from your drenched skin. I'm currently upping my shower routine to 2-3 a day in an effort to keep the smell down. Not sure on how that war is going just yet as I still usually have to change partway through the day. ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dbc50bef1f80e0daa16828e3397aa129/croprotate.jpg?cropheight=3875&cropwidth=6889&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fff4f1b6c-98ed-4021-b56d-97cb066fd38d.jpg&x=0&y=0)
 
 ****
 
 **Ljubo doma, kdor ga ima (Home sweet Home)**
-![Raeleen in Tivoli Park](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7af8ba79-1704-47a9-a9de-7bff238cb3f1.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/141b23bcc7594db8f97ef4916e93f9a3/croprotate.jpg?cropheight=3875&cropwidth=6889&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7af8ba79-1704-47a9-a9de-7bff238cb3f1.jpg&x=0&y=0)
 
-(I'm sorry Kel-cie, I know that you wanted some pronunciations added with the Slovene places and words but I can't say that line up there either so we'll both have to just assume that it's home sweet home in English and try to butcher the pronunciations in private. I can say that the j is a y sound, so that may help for the first part.) Now back to our regularly scheduled programming. ![The view from our new apartment](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e94d5219-c3ba-4384-b934-996adeecd57e.jpg)
+(I'm sorry Kel-cie, I know that you wanted some pronunciations added with the Slovene places and words but I can't say that line up there either so we'll both have to just assume that it's home sweet home in English and try to butcher the pronunciations in private. I can say that the j is a y sound, so that may help for the first part.) Now back to our regularly scheduled programming. ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/440cd7b5c54b5626542726b284949289/croprotate.jpg?cropheight=3875&cropwidth=6889&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe94d5219-c3ba-4384-b934-996adeecd57e.jpg&x=0&y=0)
 
-We have managed to secure an apartment in an area of the city called Šiška (pronounced: Shishka). The area is in the northwestern part of the city and has some pretty amazing views of the Kamnik Alps on clear days. With this large hurdle out of the way, we realized that we were missing many day to day things which meant spending more money. This also means that our monthly budget has been thrown way out of whack as we try to make up for all the things that we are missing. I know that a few people had mentioned they wanted to see how much we spent per month so I think for August I am going to do a very detailed breakdown of our expenditures so you can see what the costs of living are like for us here. ![The steps that line parts of the river Ljublanica](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfeb6997-4a53-4507-b664-1df31a617c37.jpg)
+We have managed to secure an apartment in an area of the city called Šiška (pronounced: Shishka). The area is in the northwestern part of the city and has some pretty amazing views of the Kamnik Alps on clear days. With this large hurdle out of the way, we realized that we were missing many day to day things which meant spending more money. This also means that our monthly budget has been thrown way out of whack as we try to make up for all the things that we are missing. I know that a few people had mentioned they wanted to see how much we spent per month so I think for August I am going to do a very detailed breakdown of our expenditures so you can see what the costs of living are like for us here. ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/70aeb238961b98f7e37654e9c7e4c95c/croprotate.jpg?cropheight=3875&cropwidth=6889&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fdfeb6997-4a53-4507-b664-1df31a617c37.jpg&x=0&y=0)
 
 ****
 
@@ -59,7 +61,7 @@ I was sure that this was going to be one of those things that always caused a pr
 
 Matt and Rae
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfb79c8b-f8da-4c99-a40e-8ca48456f288.jpg)
-![Our pathway when it was defined.  It quickly devolved into a very hard to follow track.  ](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/de568d9649d55c7d2bba418692d5c11b/croprotate.jpg?cropheight=5184&cropwidth=3457&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fd340eec8-64ef-4da8-80a1-eb1fc0c0f4ae.jpg&x=0&y=0)
-![One of the climbing walls](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/386806c7d4271c8b67bc4e1bdf492ee1/croprotate.jpg?cropheight=5184&cropwidth=3457&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8c3b16c5-4527-48f4-8202-ba2741ed9acf.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a121fff710ccc9da219f3b2ea56e2c35c6d4e0a8.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e11b73ca6cf51422feffc8a8b808079a/croprotate.jpg?cropheight=26244&cropwidth=17501&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F3f5c857c2647c7ca4625e40819e3dd89f2e32418.jpg&x=0&y=0)
 ![Some flowers along the way](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f1b823a76e6c5a3ecc8025bd46f5db42/croprotate.jpg?cropheight=5184&cropwidth=3457&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F38d1696d-3457-4a87-b549-77ab19d83c13.jpg&x=0&y=0)
 ![A typical view of the river within the gorge](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8564aa2383291e1e97c8eeeb9974cec5/croprotate.jpg?cropheight=3457&cropwidth=5184&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fcead0ce5-c977-4c68-8801-07e054f414e2.jpg&x=0&y=0)
