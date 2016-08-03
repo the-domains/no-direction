@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T23:39:47.916Z'
+datePublished: '2016-08-03T23:42:45.336Z'
 sourcePath: _posts/2016-08-03-tobi-our-trusty-steed.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-03T23:39:47.146Z'
+dateModified: '2016-08-03T23:42:44.524Z'
 title: 'Tobi, Our Trusty Steed!'
 publisher: {}
 description: ''
@@ -36,7 +36,7 @@ Note: The Vignette is the toll system that the Slovenes use to drive on their hi
 With our trusty steed in her new stable we were invited to go with a new Slovene friend to a small lake south of the city for a swim. On arrival, we learned that Slovene's like to use the term 'lake' rather broadly as this was no more than a small swimming hole. However, it was still an awesome experience with a large restaurant right behind, the green hills surrounding us on almost all sides, and lots of places to dive right in. It may have only been about 50-100 meters across but we were told that it was 60 meters deep! All in all, it was a memorable day with lots of time to lounge and just enjoy the sun and water.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99cb4a81-3b7e-415c-bc1f-c720463916d4.jpg)
 
-**The name's Bourne, Jason Bourne**
+**The Name's Bourne, Jason Bourne**
 
 For the last couple weeks we had been looking forward to heading up to the castle above the city for a part of their summer festival that they call Movie Under the Stars. The movies are hosted in the inner courtyard of the castle with a big screen set up, well, underneath the stars. Tickets were only 4.50 euro and they gave out free ice cream, which of course made Raeleen really happy. This was the last movie for the summer and it turned out to be the brand new Jason Bourne movie. We headed up an hour early, which gave us a lot of time to enjoy the sunset over the city and capture some good shots.
 
