@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T22:52:12.635Z'
+datePublished: '2016-08-03T23:45:22.480Z'
 sourcePath: _posts/2016-07-22-a-tale-of-twoperpetually-sweaty-travellers.md
 inFeed: true
 authors: []
@@ -9,10 +9,10 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-03T22:52:11.863Z'
+dateModified: '2016-08-03T23:45:21.672Z'
 title: ''
 publisher: {}
-description: A Tale of Two...Perpetually Sweaty Travellers
+description: 'A Tale of Two...Perpetually Sweaty Travellers '
 inLanguage: null
 inNav: false
 starred: false
@@ -22,7 +22,7 @@ _type: Article
 ---
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b3d7985202592f4f9e96cd5353e3743d/croprotate.jpg?cropheight=3457&cropwidth=5184&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6918ba76-e071-45be-94b9-ef1c5a21b21c.jpg&x=0&y=0)
 
-**A Tale of Two...Perpetually Sweaty Travellers**
+**A Tale of Two...Perpetually Sweaty Travellers **
 
 So it's been a few days since we've last spoken...or at least since I've last talked at you and you've had to sit there and like it! Please like!?!? And well, things have been going pretty well so far for us. Our plans are starting to fall into place and for the first time since we've been here we've actually had the chance to do something OUTSIDE of the city. Now don't get me wrong, Ljubljana (pronounced: Lee-yoob-lee-yana) is a beautiful city but it is also a smaller city which means that you start to see the same things over and over again very quickly. I also just have to mention that it appears that the earth must have a massive bulge right under this part of the world as it feels like we are MUCH closer to the sun than we should be. I've never been this hot and sweaty for such an extended period of time. Darkness doesn't seem to save you, as then its merely dark and hot with a mix of high humidity thrown in to really make it pleasant while you try and peel your clothing away from your drenched skin. I'm currently upping my shower routine to 2-3 a day in an effort to keep the smell down. Not sure on how that war is going just yet as I still usually have to change partway through the day.
 ![Matt in his new Fortress of Solitude.  Yes, he's hoping it's as cold as the one in Superman. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98fe5c9f-31a5-4078-8394-640514bdc3c5.jpg)
