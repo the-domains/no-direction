@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-03T23:01:53.156Z'
-dateModified: '2016-08-03T23:01:40.177Z'
+datePublished: '2016-08-03T23:05:03.527Z'
+dateModified: '2016-08-03T23:02:04.554Z'
 sourcePath: _posts/2016-08-03-tobi-our-trusty-steed.md
 author: []
 via: {}
