@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T23:42:45.336Z'
+datePublished: '2016-08-03T23:45:31.399Z'
 sourcePath: _posts/2016-08-03-tobi-our-trusty-steed.md
 inFeed: true
 authors: []
@@ -7,8 +7,8 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-03T23:42:44.524Z'
-title: 'Tobi, Our Trusty Steed!'
+dateModified: '2016-08-03T23:45:30.837Z'
+title: 'Tobi, Our Trusty Steed! '
 publisher: {}
 description: ''
 inLanguage: null
@@ -18,7 +18,7 @@ url: tobi-our-trusty-steed/index.html
 _type: Article
 
 ---
-# **Tobi, Our Trusty Steed!**
+# **Tobi, Our Trusty Steed! **
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99a61af0-6a6f-4ef2-81b2-2788c75e032d.jpg)
 
 When I last updated everyone on the day to day mundane-ness of our lives, we were working to secure a car in our new home country. Well, the struggle is over! Praise the heavens and count our lucky stars.
