@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-08-03T21:14:41.536Z'
+datePublished: '2016-08-03T22:49:05.555Z'
 sourcePath: _posts/2016-07-17-cars-food-and-bureaucracy.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-08-03T21:14:40.918Z'
+via: {}
+dateModified: '2016-08-03T22:49:04.451Z'
 title: ''
 publisher: {}
-description: 'Cars, Food, and Bureaucracy '
+description: 'Cars, Food, and Bureaucracy'
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: cars-food-and-bureaucracy/index.html
 _type: Article
@@ -20,7 +20,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee1da138-2cac-4efb-94e9-6ec934d20c8d.jpg)
 
-**Cars, Food, and Bureaucracy **
+**Cars, Food, and Bureaucracy**
 
 The last couple of days have been a bit of a blur, to be honest. We haven't really DONE a whole lot, as the process of getting into an apartment seems to dominate all we do. As the title implies, we've seen a couple of cool things, eaten some good food and dealt with the bureaucracy you seem to find in most countries around the world.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7f3b09b-3631-47d2-a1dd-bd3621014c34.jpg)
@@ -31,7 +31,7 @@ This week we were walking around the central core and noticed that there were a 
 **Food**
 
 On Friday, we also got to experience Ljubljana's version of Food Truck Fridays and they do it in style! Apparently every Friday of the summer, some of the best international and local restaurants in Slovenia gather in one of the squares for what they call 'Odprta kuhna' which means, Open kitchen. The place was packed when we arrived, and with all the amazing choices, it wasn't hard to see why! We tried some Thai and Indian dishes this time, but I'm sure we'll sample more options before the summer is through. We were a little concerned before we got here that the international cuisines that we enjoy might be a little bit hard to find, but that really doesn't seem to be the case, much to our relief.
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/11a9781271efc61fa8afc5f913117dc5/croprotate.jpg?cropheight=3457&cropwidth=5184&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc07396c1-2db7-4b71-ac2a-45875c980495.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb40fb4194e569408d95bfefa54896ef83fa495b.jpg)
 
 **Bureaucracy**
 
