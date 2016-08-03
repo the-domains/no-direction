@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-03T22:42:02.349Z'
+datePublished: '2016-08-03T22:47:09.885Z'
 sourcePath: _posts/2016-08-03-tobi-our-trusty-steed.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/313277b3-470c-4e3b-bc63-e26f288fcff3.jpg
 author: []
 via: {}
-dateModified: '2016-08-03T22:42:01.485Z'
+dateModified: '2016-08-03T22:47:09.291Z'
 title: 'Tobi, Our Trusty Steed!'
 publisher: {}
 description: ''
