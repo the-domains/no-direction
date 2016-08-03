@@ -1,18 +1,25 @@
 ---
-datePublished: '2016-08-03T22:58:56.344Z'
-sourcePath: _posts/2016-08-03-tobi-our-trusty-steed.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/313277b3-470c-4e3b-bc63-e26f288fcff3.jpg
-author: []
-via: {}
-dateModified: '2016-08-03T22:57:33.015Z'
-title: 'Tobi, Our Trusty Steed!'
-publisher: {}
-description: ''
-starred: false
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/313277b3-470c-4e3b-bc63-e26f288fcff3.jpg
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-08-03T23:01:53.156Z'
+dateModified: '2016-08-03T23:01:40.177Z'
+sourcePath: _posts/2016-08-03-tobi-our-trusty-steed.md
+author: []
+via: {}
+title: 'Tobi, Our Trusty Steed!'
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 _type: MediaObject
 
 ---
