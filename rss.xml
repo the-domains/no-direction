@@ -4,8 +4,15 @@
         <description><![CDATA[No Direction]]></description>
         <link>http://nodirection.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 23:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 23:14:31 GMT</lastBuildDate>
         <atom:link href="http://nodirection.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a87758be-38ab-4a9f-a263-6982fab053a8.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a87758be-38ab-4a9f-a263-6982fab053a8.jpg</link>
+            <guid isPermaLink="false">22e4bb37-7807-4e25-aca6-5c1a5cd39ecd</guid>
+            <pubDate>Wed, 03 Aug 2016 23:14:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Tale of Two...Perpetually Sweaty Travellers]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b3d7985202592f4f9e96cd5353e3743d/croprotate.jpg?cropheight=3457&cropwidth=5184&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6918ba76-e071-45be-94b9-ef1c5a21b21c.jpg&x=0&y=0">]]></description>
