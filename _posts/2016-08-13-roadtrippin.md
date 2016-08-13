@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Roadtrippin'
-datePublished: '2016-08-13T23:07:38.276Z'
-dateModified: '2016-08-13T23:07:37.188Z'
+datePublished: '2016-08-13T23:10:04.499Z'
+dateModified: '2016-08-13T23:10:03.560Z'
 title: ''
 author: []
 via: {}
