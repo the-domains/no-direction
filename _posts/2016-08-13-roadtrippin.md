@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T10:42:06.122Z'
+datePublished: '2016-08-19T10:43:45.170Z'
 sourcePath: _posts/2016-08-13-roadtrippin.md
 inFeed: true
 authors: []
@@ -7,8 +7,8 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T10:42:05.329Z'
-title: Roadtrippin'
+dateModified: '2016-08-19T10:43:44.700Z'
+title: 'Roadtrippin'' '
 publisher: {}
 description: ''
 inLanguage: null
@@ -18,7 +18,7 @@ url: roadtrippin/index.html
 _type: Article
 
 ---
-# **Roadtrippin'**
+# **Roadtrippin' **
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/711149c1-6864-4806-8022-681be3994111.jpg)
 
 Thing's I've learned so far about living in Slovenia:
