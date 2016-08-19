@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T22:45:46.244Z'
+datePublished: '2016-08-19T10:41:08.115Z'
 sourcePath: _posts/2016-07-08-how-we-became-homelessand-ended-up-going-with-it.md
 inFeed: true
 authors: []
@@ -7,17 +7,10 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-03T22:45:45.321Z'
-title: ''
+dateModified: '2016-08-19T10:41:07.199Z'
+title: How we became homeless...and ended up going with it.
 publisher: {}
-description: >-
-  With what we believe to be enough money saved up to last us for a year, we
-  decided that we wanted to experience life a bit differently. Although I'm sure
-  that we're not the first people to quit our jobs and travel, I know that our
-  choice is not a common one. I know that this choice may not be the right one
-  for everyone, I'm not even sure that this is the right choice for us, but
-  after talking about it for years I know that if we didn't at least try, we'd
-  never find out for sure.
+description: ''
 inLanguage: null
 inNav: false
 starred: false
@@ -25,12 +18,11 @@ url: how-we-became-homelessand-ended-up-going-with-it/index.html
 _type: Article
 
 ---
+# **How we became homeless...and ended up going with it.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/548df88f-f2d4-494d-8471-169f697b4f52.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69ed8732-a261-443b-9455-724de5bbdfe7.jpg)
 
 With what we believe to be enough money saved up to last us for a year, we decided that we wanted to experience life a bit differently. Although I'm sure that we're not the first people to quit our jobs and travel, I know that our choice is not a common one. I know that this choice may not be the right one for everyone, I'm not even sure that this is the right choice for us, but after talking about it for years I know that if we didn't at least try, we'd never find out for sure.
-
-**How we became homeless...and ended up going with it.**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69ed8732-a261-443b-9455-724de5bbdfe7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4de62f20-cc3a-486d-80ab-93546f741ee0.jpg)
 
 **Iceland; heading to another planet without ever leaving Earth.**
