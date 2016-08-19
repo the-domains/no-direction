@@ -1,23 +1,4 @@
-name: No Direction
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2385fa6-bf41-4293-a6c9-7517ed3e5660.jpg
-layout_spectrum: 0.45752
 typography_spectrum: 0.05967
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/41a35907-730e-4b21-873d-dd31b8b99250.jpg
-title: No Direction
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-59694329-2
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -29,4 +10,27 @@ color:
   lightness: 0.42067937715910375
   saturation: 0.7996015292592347
   rhythmicContrast: 0.7426223654765636
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.45752
+analytics:
+  google: UA-59694329-2
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/41a35907-730e-4b21-873d-dd31b8b99250.jpg
+name: No Direction
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About Us
+    id: 0cf9c8f8-38ea-403d-8059-fab6db6eb89b
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2385fa6-bf41-4293-a6c9-7517ed3e5660.jpg
+title: No Direction
 purpose: []
