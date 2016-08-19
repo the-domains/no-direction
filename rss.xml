@@ -4,8 +4,22 @@
         <description><![CDATA[No Direction]]></description>
         <link>http://nodirection.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 10:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 10:42:09 GMT</lastBuildDate>
         <atom:link href="http://nodirection.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Roadtrippin']]></title>
+            <description><![CDATA[<article><h1>Roadtrippin'</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/711149c1-6864-4806-8022-681be3994111.jpg"></article>]]></description>
+            <link>http://nodirection.ca/roadtrippin/index.html</link>
+            <guid isPermaLink="false">87b8ff75-80f7-432e-ac97-f97ee3e354da</guid>
+            <pubDate>Fri, 19 Aug 2016 10:42:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The point of no return...]]></title>
+            <description><![CDATA[<article><h1>The point of no return...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/22a553c7-b970-42f3-8597-b841e8acd029.jpg"></article>]]></description>
+            <link>http://nodirection.ca/how-we-got-here/index.html</link>
+            <guid isPermaLink="false">e5bff142-f1b0-41c7-9042-dd61992851c8</guid>
+            <pubDate>Fri, 19 Aug 2016 10:41:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How we became homeless...and ended up going with it.]]></title>
             <description><![CDATA[<article><h1>How we became homeless...and ended up going with it.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/548df88f-f2d4-494d-8471-169f697b4f52.jpg"></article>]]></description>
@@ -35,25 +49,11 @@
             <pubDate>Fri, 19 Aug 2016 10:39:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Roadtrippin']]></title>
-            <description><![CDATA[<article><h1>Roadtrippin'</h1><p>Thing's I've learned so far about living in Slovenia:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/711149c1-6864-4806-8022-681be3994111.jpg"></article>]]></description>
-            <link>http://nodirection.ca/roadtrippin/index.html</link>
-            <guid isPermaLink="false">87b8ff75-80f7-432e-ac97-f97ee3e354da</guid>
-            <pubDate>Fri, 19 Aug 2016 10:38:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tobi, Our Trusty Steed! ]]></title>
             <description><![CDATA[<article><h1>Tobi, Our Trusty Steed! </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/99a61af0-6a6f-4ef2-81b2-2788c75e032d.jpg"></article>]]></description>
             <link>http://nodirection.ca/tobi-our-trusty-steed/index.html</link>
             <guid isPermaLink="false">c40d25a7-e9a6-48d6-920e-91b939175bf7</guid>
             <pubDate>Wed, 03 Aug 2016 23:45:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How we got here.]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/22a553c7-b970-42f3-8597-b841e8acd029.jpg">]]></description>
-            <link>http://nodirection.ca/how-we-got-here/index.html</link>
-            <guid isPermaLink="false">e5bff142-f1b0-41c7-9042-dd61992851c8</guid>
-            <pubDate>Mon, 04 Jul 2016 03:22:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
