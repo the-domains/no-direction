@@ -4,8 +4,15 @@
         <description><![CDATA[No Direction]]></description>
         <link>http://nodirection.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 10:38:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 10:39:30 GMT</lastBuildDate>
         <atom:link href="http://nodirection.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Tale of Two...Perpetually Sweaty Travellers]]></title>
+            <description><![CDATA[<article><h1>A Tale of Two...Perpetually Sweaty Travellers</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b3d7985202592f4f9e96cd5353e3743d/croprotate.jpg?cropheight=3457&cropwidth=5184&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6918ba76-e071-45be-94b9-ef1c5a21b21c.jpg&x=0&y=0"></article>]]></description>
+            <link>http://nodirection.ca/a-tale-of-twoperpetually-sweaty-travellers/index.html</link>
+            <guid isPermaLink="false">7852c65c-3ae2-47a8-8bb9-7d28f09c9674</guid>
+            <pubDate>Fri, 19 Aug 2016 10:39:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Roadtrippin']]></title>
             <description><![CDATA[<article><h1>Roadtrippin'</h1><p>Thing's I've learned so far about living in Slovenia:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/711149c1-6864-4806-8022-681be3994111.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>http://nodirection.ca/tobi-our-trusty-steed/index.html</link>
             <guid isPermaLink="false">c40d25a7-e9a6-48d6-920e-91b939175bf7</guid>
             <pubDate>Wed, 03 Aug 2016 23:45:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Tale of Two...Perpetually Sweaty Travellers]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b3d7985202592f4f9e96cd5353e3743d/croprotate.jpg?cropheight=3457&cropwidth=5184&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6918ba76-e071-45be-94b9-ef1c5a21b21c.jpg&x=0&y=0">]]></description>
-            <link>http://nodirection.ca/a-tale-of-twoperpetually-sweaty-travellers/index.html</link>
-            <guid isPermaLink="false">7852c65c-3ae2-47a8-8bb9-7d28f09c9674</guid>
-            <pubDate>Wed, 03 Aug 2016 23:45:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cars, Food, and Bureaucracy]]></title>
