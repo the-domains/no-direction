@@ -1,15 +1,16 @@
 ---
-datePublished: '2016-07-04T03:22:48.369Z'
+datePublished: '2016-08-19T10:41:42.389Z'
 sourcePath: _posts/2016-07-03-how-we-got-here.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-04T03:22:47.968Z'
-title: ''
-publisher: null
-description: The point of no return...
+via: {}
+dateModified: '2016-08-19T10:41:41.893Z'
+title: The point of no return...
+publisher: {}
+description: ''
 inLanguage: null
 inNav: false
 starred: false
@@ -17,9 +18,8 @@ url: how-we-got-here/index.html
 _type: Article
 
 ---
+# **The point of no return...**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22a553c7-b970-42f3-8597-b841e8acd029.jpg)
-
-**The point of no return...**
 
 For the past 2 or 3 years Raeleen and I have talked about moving to another country. It started off as jokes about how the vacations we were taking just didn't give us the time we wanted in our location. We would inevitably return from every single vacation and say to each other "I could see myself living there one day". I imagine its something that everyone does...the grass is always greener and all that right?
 
