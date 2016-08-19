@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T23:45:31.399Z'
+datePublished: '2016-08-19T10:43:40.197Z'
 sourcePath: _posts/2016-08-03-tobi-our-trusty-steed.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-03T23:45:30.837Z'
+dateModified: '2016-08-19T10:43:39.651Z'
 title: 'Tobi, Our Trusty Steed! '
 publisher: {}
 description: ''
