@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T10:38:02.302Z'
+datePublished: '2016-08-19T10:42:06.122Z'
 sourcePath: _posts/2016-08-13-roadtrippin.md
 inFeed: true
 authors: []
@@ -7,10 +7,10 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T10:38:01.650Z'
+dateModified: '2016-08-19T10:42:05.329Z'
 title: Roadtrippin'
 publisher: {}
-description: 'Thing''s I''ve learned so far about living in Slovenia:'
+description: ''
 inLanguage: null
 inNav: false
 starred: false
