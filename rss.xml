@@ -4,8 +4,15 @@
         <description><![CDATA[No Direction]]></description>
         <link>http://nodirection.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 10:39:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 10:40:04 GMT</lastBuildDate>
         <atom:link href="http://nodirection.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Here, There, and Everywhere!]]></title>
+            <description><![CDATA[<article><h1>Here, There, and Everywhere!</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1130e9958051ae605c56f95a56ab0448/croprotate.jpg?cropheight=3457&cropwidth=5184&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe6f41011-b03d-46e0-a739-44d64d79c19d.jpg&x=0&y=0"></article>]]></description>
+            <link>http://nodirection.ca/here-there-and-everywhere/index.html</link>
+            <guid isPermaLink="false">25fa01f1-7b15-476d-9964-5de998e55ab7</guid>
+            <pubDate>Fri, 19 Aug 2016 10:40:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cars, Food, and Bureaucracy]]></title>
             <description><![CDATA[<article><h1>Cars, Food, and Bureaucracy</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee1da138-2cac-4efb-94e9-6ec934d20c8d.jpg"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>http://nodirection.ca/tobi-our-trusty-steed/index.html</link>
             <guid isPermaLink="false">c40d25a7-e9a6-48d6-920e-91b939175bf7</guid>
             <pubDate>Wed, 03 Aug 2016 23:45:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here, There and Everywhere]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1130e9958051ae605c56f95a56ab0448/croprotate.jpg?cropheight=3457&cropwidth=5184&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe6f41011-b03d-46e0-a739-44d64d79c19d.jpg&x=0&y=0">]]></description>
-            <link>http://nodirection.ca/here-there-and-everywhere/index.html</link>
-            <guid isPermaLink="false">25fa01f1-7b15-476d-9964-5de998e55ab7</guid>
-            <pubDate>Wed, 03 Aug 2016 22:48:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How we became homeless and ended up going with it!]]></title>
