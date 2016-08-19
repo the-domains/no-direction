@@ -30,6 +30,9 @@ navigation:
   - name: Photos
     id: d02637e3-3961-45c4-8a08-40f95dd298ab
     type: content
+  - name: About Us
+    id: 0cf9c8f8-38ea-403d-8059-fab6db6eb89b
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2385fa6-bf41-4293-a6c9-7517ed3e5660.jpg
 title: No Direction
