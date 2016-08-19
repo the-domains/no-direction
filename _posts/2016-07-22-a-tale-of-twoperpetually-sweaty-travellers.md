@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T10:43:34.370Z'
+datePublished: '2016-08-19T10:49:19.467Z'
 sourcePath: _posts/2016-07-22-a-tale-of-twoperpetually-sweaty-travellers.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-19T10:43:33.377Z'
+dateModified: '2016-08-19T10:49:18.139Z'
 title: 'A Tale of Two...Perpetually Sweaty Travellers '
 publisher: {}
 description: ''
