@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T10:43:45.170Z'
+datePublished: '2016-08-19T10:50:17.401Z'
 sourcePath: _posts/2016-08-13-roadtrippin.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T10:43:44.700Z'
+dateModified: '2016-08-19T10:50:15.989Z'
 title: 'Roadtrippin'' '
 publisher: {}
 description: ''
