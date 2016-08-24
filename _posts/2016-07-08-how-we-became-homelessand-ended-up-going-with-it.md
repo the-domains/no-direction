@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T10:58:26.305Z'
+datePublished: '2016-08-24T15:52:45.131Z'
 sourcePath: _posts/2016-07-08-how-we-became-homelessand-ended-up-going-with-it.md
 inFeed: true
 authors: []
@@ -7,8 +7,8 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T10:58:15.444Z'
-title: 'How we became homeless...and ended up going with it. '
+dateModified: '2016-08-24T15:52:44.386Z'
+title: How we became homeless...and ended up going with it.
 publisher: {}
 description: ''
 inLanguage: null
@@ -18,7 +18,7 @@ url: how-we-became-homelessand-ended-up-going-with-it/index.html
 _type: Article
 
 ---
-# **How we became homeless...and ended up going with it. **
+# **How we became homeless...and ended up going with it.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/548df88f-f2d4-494d-8471-169f697b4f52.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69ed8732-a261-443b-9455-724de5bbdfe7.jpg)
 
