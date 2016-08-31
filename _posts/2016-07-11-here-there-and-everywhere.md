@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T15:52:29.875Z'
+datePublished: '2016-08-29T11:52:16.236Z'
 sourcePath: _posts/2016-07-11-here-there-and-everywhere.md
 inFeed: true
 authors: []
@@ -7,8 +7,8 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-24T15:52:28.927Z'
-title: 'Here, There, and Everywhere!'
+dateModified: '2016-08-29T11:52:15.206Z'
+title: 'Here, There, and Everywhere! '
 publisher: {}
 description: ''
 inLanguage: null
@@ -18,7 +18,7 @@ url: here-there-and-everywhere/index.html
 _type: Article
 
 ---
-# **Here, There, and Everywhere!**
+# **Here, There, and Everywhere! **
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcc08866abf86192bc505401bde5ed8c865e866e.jpg)
 
 So we've now been in Ljubljana (from here out referred to as LJ) for around 5 days. We've gotten a taste for the Central European life and we like it. However, there are things that we've noticed already that we will have to get used to. First off, the heat is so oppressive that I barely want to move. I know this isn't really all that different from normal but at least now I have an excuse for it, right? With each day we've been here being hotter than the last, would that mean that today was again the worst of the worst? Correct! It was 32 celsius today and when you are staying in an apartment with no air conditioning it means you get the heck outta dodge for the day and find somewhere to stay cool. At least that's what smart people would do. We decided to try a different route and book a whole bunch of apartment viewings all over the city using only bikes to get around with, 'cause y'know, what's a better way to impress your new landlords than by showing up looking like sweaty messes? Oh, and we also decided to throw a trip to a government building to pick up our work permits as well.
