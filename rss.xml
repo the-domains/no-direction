@@ -4,8 +4,15 @@
         <description><![CDATA[No Direction]]></description>
         <link>http://nodirection.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 11:52:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 11:53:27 GMT</lastBuildDate>
         <atom:link href="http://nodirection.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Here, There, and Everywhere! ]]></title>
+            <description><![CDATA[<article><h1>Here, There, and Everywhere! </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcc08866abf86192bc505401bde5ed8c865e866e.jpg"></article>]]></description>
+            <link>http://nodirection.ca/here-there-and-everywhere/index.html</link>
+            <guid isPermaLink="false">25fa01f1-7b15-476d-9964-5de998e55ab7</guid>
+            <pubDate>Mon, 29 Aug 2016 11:53:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Roadtrippin' ]]></title>
             <description><![CDATA[<article><h1>Roadtrippin' </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/711149c1-6864-4806-8022-681be3994111.jpg"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>http://nodirection.ca/cars-food-and-bureaucracy/index.html</link>
             <guid isPermaLink="false">66854a49-470c-4354-93c6-124e88238fcc</guid>
             <pubDate>Mon, 29 Aug 2016 11:52:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here, There, and Everywhere! ]]></title>
-            <description><![CDATA[<article><h1>Here, There, and Everywhere! </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcc08866abf86192bc505401bde5ed8c865e866e.jpg"></article>]]></description>
-            <link>http://nodirection.ca/here-there-and-everywhere/index.html</link>
-            <guid isPermaLink="false">25fa01f1-7b15-476d-9964-5de998e55ab7</guid>
-            <pubDate>Mon, 29 Aug 2016 11:52:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How we became homeless...and ended up going with it. ]]></title>
