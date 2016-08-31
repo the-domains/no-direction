@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T15:52:12.614Z'
+datePublished: '2016-08-29T11:52:22.122Z'
 sourcePath: _posts/2016-07-17-cars-food-and-bureaucracy.md
 inFeed: true
 authors: []
@@ -7,8 +7,8 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-24T15:52:11.975Z'
-title: 'Cars, Food, and Bureaucracy'
+dateModified: '2016-08-29T11:52:21.477Z'
+title: 'Cars, Food, and Bureaucracy '
 publisher: {}
 description: ''
 inLanguage: null
@@ -18,7 +18,7 @@ url: cars-food-and-bureaucracy/index.html
 _type: Article
 
 ---
-# **Cars, Food, and Bureaucracy**
+# **Cars, Food, and Bureaucracy **
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee1da138-2cac-4efb-94e9-6ec934d20c8d.jpg)
 
 The last couple of days have been a bit of a blur, to be honest. We haven't really DONE a whole lot, as the process of getting into an apartment seems to dominate all we do. As the title implies, we've seen a couple of cool things, eaten some good food and dealt with the bureaucracy you seem to find in most countries around the world.
