@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-29T11:52:16.236Z'
+datePublished: '2016-08-29T11:53:25.020Z'
 sourcePath: _posts/2016-07-11-here-there-and-everywhere.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-29T11:52:15.206Z'
+dateModified: '2016-08-29T11:53:24.324Z'
 title: 'Here, There, and Everywhere! '
 publisher: {}
 description: ''
