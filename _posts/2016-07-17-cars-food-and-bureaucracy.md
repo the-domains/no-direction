@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-29T11:52:22.122Z'
+datePublished: '2016-08-29T11:54:02.256Z'
 sourcePath: _posts/2016-07-17-cars-food-and-bureaucracy.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-29T11:52:21.477Z'
+dateModified: '2016-08-29T11:54:01.513Z'
 title: 'Cars, Food, and Bureaucracy '
 publisher: {}
 description: ''
